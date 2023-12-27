@@ -1,6 +1,5 @@
 package com.practise;
 
-import javax.sql.rowset.spi.SyncFactory;
 
 public class Thread2 implements Runnable{
 
